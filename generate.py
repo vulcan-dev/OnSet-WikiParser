@@ -182,7 +182,6 @@ def get_events(page, thread_count):
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-o", "--output", help="output file", default="functions.json")
-parser.add_argument("-g", "--generate", help="generate functions.json", action="store_true")
 parser.add_argument("-t", "--threads", help="number of threads", default=1, type=int)
 parser.add_argument("-p", "--prettify", help="prettify json", default=False, action="store_true")
 
@@ -214,9 +213,6 @@ def signal_handler(sig, frame):
 
 def main():
     args = parser.parse_args()
-    if not args.generate:
-        parser.print_help()
-        return
 
     signal.signal(signal.SIGINT, signal_handler)
 
