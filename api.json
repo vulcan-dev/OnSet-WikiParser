@@ -11198,7 +11198,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerSteamAuth": {
             "params": [
@@ -11213,7 +11213,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerDownloadFile": {
             "params": [
@@ -11236,7 +11236,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerStreamIn": {
             "params": [
@@ -11255,7 +11255,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerStreamOut": {
             "params": [
@@ -11274,7 +11274,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerPickupHit": {
             "params": [],
@@ -11284,7 +11284,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerJoin": {
             "params": [
@@ -11299,7 +11299,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerQuit": {
             "params": [
@@ -11314,7 +11314,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerSpawn": {
             "params": [
@@ -11329,7 +11329,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerDeath": {
             "params": [
@@ -11348,7 +11348,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerWeaponShot": {
             "params": [
@@ -11415,7 +11415,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerDamage": {
             "params": [
@@ -11438,7 +11438,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerChat": {
             "params": [
@@ -11457,7 +11457,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerChatCommand": {
             "params": [
@@ -11480,7 +11480,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerInteractDoor": {
             "params": [
@@ -11503,7 +11503,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerChangeDimension": {
             "params": [
@@ -11526,7 +11526,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerEnterVehicle": {
             "params": [
@@ -11549,7 +11549,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerLeaveVehicle": {
             "params": [
@@ -11572,7 +11572,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerStateChange": {
             "params": [
@@ -11595,7 +11595,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleRespawn": {
             "params": [
@@ -11610,7 +11610,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleStreamIn": {
             "params": [
@@ -11629,7 +11629,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleStreamOut": {
             "params": [
@@ -11648,7 +11648,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleDamage": {
             "params": [
@@ -11667,7 +11667,7 @@
                 "context": "Server",
                 "introduced": "1.1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleChangeDimension": {
             "params": [
@@ -11690,7 +11690,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleCreated": {
             "params": [
@@ -11705,7 +11705,7 @@
                 "context": "Server",
                 "introduced": "1.3.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleDestroyed": {
             "params": [
@@ -11720,7 +11720,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnGameTick": {
             "params": [
@@ -11735,7 +11735,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnClientConnectionRequest": {
             "params": [
@@ -11754,7 +11754,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnConsoleInput": {
             "params": [
@@ -11769,7 +11769,7 @@
                 "context": "Server & Client",
                 "introduced": "1.2.1"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnServerLoaded": {
             "params": [],
@@ -11779,7 +11779,7 @@
                 "context": "Server",
                 "introduced": "1.5.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPackageStart": {
             "params": [],
@@ -11789,7 +11789,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPackageStop": {
             "params": [],
@@ -11799,7 +11799,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnScriptError": {
             "params": [
@@ -11814,7 +11814,7 @@
                 "context": "Client & Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCReachTarget": {
             "params": [
@@ -11829,7 +11829,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCDamage": {
             "params": [
@@ -11852,7 +11852,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCSpawn": {
             "params": [
@@ -11867,7 +11867,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCDeath": {
             "params": [
@@ -11886,7 +11886,7 @@
                 "context": "Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCStreamIn": {
             "params": [
@@ -11905,7 +11905,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCStreamOut": {
             "params": [
@@ -11924,7 +11924,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCChangeDimension": {
             "params": [
@@ -11947,7 +11947,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCCreated": {
             "params": [
@@ -11962,7 +11962,7 @@
                 "context": "Server",
                 "introduced": "1.3.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCDestroyed": {
             "params": [
@@ -11977,7 +11977,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectStopMoving": {
             "params": [
@@ -11992,7 +11992,7 @@
                 "context": "Server",
                 "introduced": "1.3.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectChangeDimension": {
             "params": [
@@ -12015,7 +12015,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectCreated": {
             "params": [
@@ -12030,7 +12030,7 @@
                 "context": "Server",
                 "introduced": "1.3.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectDestroyed": {
             "params": [
@@ -12045,7 +12045,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectStreamIn": {
             "params": [
@@ -12060,7 +12060,7 @@
                 "context": "Client & Server",
                 "introduced": "1.0/1.5.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectStreamOut": {
             "params": [
@@ -12075,7 +12075,7 @@
                 "context": "Client & Server",
                 "introduced": "1.0/1.5.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPickupChangeDimension": {
             "params": [
@@ -12098,7 +12098,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPickupCreated": {
             "params": [
@@ -12113,7 +12113,7 @@
                 "context": "Server",
                 "introduced": "1.3.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPickupDestroyed": {
             "params": [
@@ -12128,7 +12128,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnText3DChangeDimension": {
             "params": [
@@ -12151,7 +12151,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnText3DCreated": {
             "params": [
@@ -12166,7 +12166,7 @@
                 "context": "Server",
                 "introduced": "1.3.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnText3DDestroyed": {
             "params": [
@@ -12181,7 +12181,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnDoorChangeDimension": {
             "params": [
@@ -12204,7 +12204,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnDoorCreated": {
             "params": [
@@ -12219,7 +12219,7 @@
                 "context": "Server",
                 "introduced": "1.3.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnDoorDestroyed": {
             "params": [
@@ -12234,7 +12234,7 @@
                 "context": "Server",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         }
     },
     "client_events": {
@@ -12251,7 +12251,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnGameLanguageChange": {
             "params": [
@@ -12266,7 +12266,7 @@
                 "context": "Client",
                 "introduced": "1.5.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnSteamOverlayActivated": {
             "params": [
@@ -12281,7 +12281,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnResolutionChange": {
             "params": [
@@ -12300,7 +12300,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnRenderHUD": {
             "params": [],
@@ -12310,7 +12310,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnShowMainMenu": {
             "params": [],
@@ -12320,7 +12320,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnHideMainMenu": {
             "params": [],
@@ -12330,7 +12330,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnWhitelistAccepted": {
             "params": [
@@ -12345,7 +12345,7 @@
                 "context": "Client",
                 "introduced": "1.4.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleStreamIn": {
             "params": [
@@ -12364,7 +12364,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleStreamOut": {
             "params": [
@@ -12383,7 +12383,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerStartEnterVehicle": {
             "params": [
@@ -12402,7 +12402,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerStartExitVehicle": {
             "params": [
@@ -12417,7 +12417,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerEnterVehicle": {
             "params": [
@@ -12440,7 +12440,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerLeaveVehicle": {
             "params": [
@@ -12463,7 +12463,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerToggleVehicleLight": {
             "params": [
@@ -12482,7 +12482,7 @@
                 "context": "Client",
                 "introduced": "1.1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerToggleVehicleNitro": {
             "params": [
@@ -12501,7 +12501,7 @@
                 "context": "Client",
                 "introduced": "1.2.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerToggleVehicleHorn": {
             "params": [
@@ -12520,7 +12520,7 @@
                 "context": "Client",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleBackfire": {
             "params": [
@@ -12535,7 +12535,7 @@
                 "context": "Client",
                 "introduced": "1.2.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayWeaponHitEffects": {
             "params": [
@@ -12582,7 +12582,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerStreamIn": {
             "params": [
@@ -12601,7 +12601,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerStreamOut": {
             "params": [
@@ -12620,7 +12620,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerSwitchCamera": {
             "params": [
@@ -12635,7 +12635,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerEnterWater": {
             "params": [],
@@ -12645,7 +12645,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerLeaveWater": {
             "params": [],
@@ -12655,7 +12655,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerDeath": {
             "params": [
@@ -12674,7 +12674,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerChatCommand": {
             "params": [
@@ -12697,7 +12697,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerChat": {
             "params": [
@@ -12716,7 +12716,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerSpawn": {
             "params": [
@@ -12731,7 +12731,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerCrouch": {
             "params": [],
@@ -12741,7 +12741,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerEndCrouch": {
             "params": [],
@@ -12751,7 +12751,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerEndFall": {
             "params": [],
@@ -12761,7 +12761,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerFall": {
             "params": [],
@@ -12771,7 +12771,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerTalking": {
             "params": [
@@ -12786,7 +12786,7 @@
                 "context": "Client",
                 "introduced": "1.0.3"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerToggleAim": {
             "params": [
@@ -12801,7 +12801,7 @@
                 "context": "Client",
                 "introduced": "1.2.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerFootstep": {
             "params": [
@@ -12820,7 +12820,7 @@
                 "context": "Client",
                 "introduced": "1.2.2"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerWeaponShot": {
             "params": [
@@ -12887,7 +12887,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerReloaded": {
             "params": [],
@@ -12897,7 +12897,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerParachuteLand": {
             "params": [],
@@ -12907,7 +12907,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerSkydiveCrash": {
             "params": [],
@@ -12917,7 +12917,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerCancelSkydive": {
             "params": [],
@@ -12927,7 +12927,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerSkydive": {
             "params": [],
@@ -12937,7 +12937,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerParachuteOpen": {
             "params": [],
@@ -12947,7 +12947,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerParachuteClose": {
             "params": [],
@@ -12957,7 +12957,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnKeyPress": {
             "params": [
@@ -12972,7 +12972,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnKeyRelease": {
             "params": [
@@ -12987,7 +12987,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnActionKey": {
             "params": [
@@ -13010,7 +13010,7 @@
                 "context": "Client",
                 "introduced": "1.5.5"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnAxisKey": {
             "params": [
@@ -13033,7 +13033,7 @@
                 "context": "Client",
                 "introduced": "1.5.5"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCStreamIn": {
             "params": [
@@ -13052,7 +13052,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCStreamOut": {
             "params": [
@@ -13071,7 +13071,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectStreamIn": {
             "params": [
@@ -13086,7 +13086,7 @@
                 "context": "Client & Server",
                 "introduced": "1.0/1.5.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectStreamOut": {
             "params": [
@@ -13101,7 +13101,7 @@
                 "context": "Client & Server",
                 "introduced": "1.0/1.5.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectHit": {
             "params": [
@@ -13148,7 +13148,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerEndEditObject": {
             "params": [
@@ -13163,7 +13163,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerBeginEditObject": {
             "params": [
@@ -13178,7 +13178,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectModelChange": {
             "params": [
@@ -13197,7 +13197,7 @@
                 "context": "Client",
                 "introduced": "1.1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPackageStart": {
             "params": [],
@@ -13207,7 +13207,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPackageStop": {
             "params": [],
@@ -13217,7 +13217,7 @@
                 "context": "Server & Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnScriptError": {
             "params": [
@@ -13232,7 +13232,7 @@
                 "context": "Client & Server",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPickupStreamIn": {
             "params": [
@@ -13247,7 +13247,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPickupStreamOut": {
             "params": [
@@ -13262,7 +13262,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnText3DStreamIn": {
             "params": [
@@ -13277,7 +13277,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnText3DStreamOut": {
             "params": [
@@ -13292,7 +13292,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnWebLoadComplete": {
             "params": [
@@ -13307,7 +13307,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnSoundUpdateMeta": {
             "params": [
@@ -13326,7 +13326,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnSoundFinished": {
             "params": [
@@ -13341,7 +13341,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnDoorStreamIn": {
             "params": [
@@ -13356,7 +13356,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnDoorStreamOut": {
             "params": [
@@ -13371,7 +13371,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnObjectNetworkUpdatePropertyValue": {
             "params": [
@@ -13394,7 +13394,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPlayerNetworkUpdatePropertyValue": {
             "params": [
@@ -13417,7 +13417,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnVehicleNetworkUpdatePropertyValue": {
             "params": [
@@ -13440,7 +13440,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnNPCNetworkUpdatePropertyValue": {
             "params": [
@@ -13463,7 +13463,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnText3DNetworkUpdatePropertyValue": {
             "params": [
@@ -13486,7 +13486,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnPickupNetworkUpdatePropertyValue": {
             "params": [
@@ -13509,7 +13509,7 @@
                 "context": "Client",
                 "introduced": "1.0"
             },
-            "category": "Unknown due to thread timing"
+            "category": "Unknown"
         },
         "OnDoorNetworkUpdatePropertyValue": {
             "params": [
@@ -13532,7 +13532,7 @@
                 "context": "Client",
                 "introduced": "1.1.0"
             },
-          "category": "Unknown due to thread timing"
+          "category": "Unknown"
         }
     }
 }
