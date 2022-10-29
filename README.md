@@ -14,4 +14,6 @@ This is useful for:
     -p --prettify : prettify the json. Default is true
 ```
 
+![MDBook Image](https://imgur.com/XFB9tfH.png)
+
 **Note:** I've rarely ever touch Python so the threading isn't the best, at least it works.
