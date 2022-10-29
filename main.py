@@ -77,7 +77,7 @@ def get_functions_thread(lines, functions, thread_id, thread_count):
             func = get_function("https://dev.playonset.com/index.php?title=" + function_name + "&action=edit")
             if func is not None:
                 functions[function_name] = func
-                functions[function_name]["category"] = category if category != "" else "Unknown due to thread timing"
+                functions[function_name]["category"] = category if category != "" else "Unknown"
         elif line.startswith("{{"):
             if ":" in line:
                 template_name = line.split(":")[1][:-2]
