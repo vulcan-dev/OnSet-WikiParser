@@ -7,7 +7,7 @@ This is useful for:
 
 ## Usage
 ```sh
-    python .\main.py [args]
+    python .\generate.py [args]
 
     -g --generate : overwrite/generate the json api
     -t --threads : set the thread count (Note: categories will not work if it's higher than 1). Default is 1, takes around 150s with 1 thread and 44s with 4
